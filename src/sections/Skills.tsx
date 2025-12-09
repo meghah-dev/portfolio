@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const skills = [
   { name: "HTML", level: 95, color: "bg-blue-600" },
-  { name: "CSS", level: 85, color: "bg-yellow-500" },
+  { name: "MongoDB", level: 85, color: "bg-yellow-500" },
   { name: "Angular JS", level: 90, color: "bg-red-500" },
   { name: "JavaScript", level: 90, color: "bg-green-600" },
   { name: "Node JS", level: 95, color: "bg-black" },
