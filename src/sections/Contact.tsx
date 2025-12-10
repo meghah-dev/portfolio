@@ -15,11 +15,14 @@ const Contact = () => {
         >
           <h1 className="text-4xl font-bold mb-6 md:mb-0">Let's Work Together</h1>
           <a
-            href="mailto:mhiremath.dev@gmail.com"
-            className="bg-purple-600 hover:bg-purple-700 text-white py-3 px-6 rounded-md text-lg font-medium"
-          >
-            Say Hello
-          </a>
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=mhiremath.dev@gmail.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-purple-600 hover:bg-purple-700 text-white py-3 px-6 rounded-md text-lg font-medium"
+  >
+    Say Hello
+  </a>
+
         </motion.div>
 
         {/* Contact Info */}
